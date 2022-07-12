@@ -5,4 +5,10 @@
         <attr name="fanColor2" format="color"/>
         <attr name="fanColor3" format="color"/>
     </declare-styleable>
+
+
+    <declare-styleable name="AlbumThumbnailView">
+        <attr name="participants" format="integer"/>
+
+    </declare-styleable>
 </resources>
